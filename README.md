@@ -1,50 +1,6 @@
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.png" group-title="YOUTUBE",YOUTUBE
-https://drive.google.com/uc?export=download&id=19dpmNfr1FleNDPFMdYql2HrwXDt632cp
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.png" group-title="YOUTUBE",YOUTUBE
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.png" group-title="YOUTUBE",YOUTUBE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.png" group-title="YOUTUBE",YOUTUBE
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.png" group-title="YOUTUBE",YOUTUBE
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.png" group-title="YOUTUBE",YOUTUBE
-https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.pnghttps://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.pnghttps://i.ibb.co/LSHF1sp/W5y-SOt-G-Imgur.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="YOUTUBEYOUTUBEYOUTUBECHANNEL | LIGA",YOUTUBEYOUTUBEYOUTUBEMOJI
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="CHANNEL | LIGA",SPORTSTARS 1 (V+)
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="CHANNEL | LIGA",SPORTSTARS 2 (V+)
-https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="CHANNEL | LIGA",SPORTSTARS 3 (V+)
-https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="CHANNEL | LIGA",SPORTSTARS 4 (V+)
-https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="CHANNEL | LIGA",SOCCER CHANNEL (V+)
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="CHANNEL | LIGA",SOCCER CHANNEL B (V+)
-https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="CHANNEL | LIGA",SPO TV 1 (V+)
-https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Live Event",UCL 🇧🇪
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Live Event",UCL 🇧🇪
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/d4a3bbd6/4b47.png" group-title="Live Event",SPOTV
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/fa2e7f65/768b.png" group-title="Live Event",SPOTV 2
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/47a3389b/841b.png" group-title="Live Event",SPORTSTARS
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/d7bc368d/1d9b.png" group-title="Live Event",SPORTSTARS 2
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/c0cec9b0/08d4.png" group-title="Live Event",Soccer Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sgMLTpsoAI5C21zEGINl-02W79ZeUYfJ3Q&usqp=CAU" group-title="Live Event",beIN Sports Indonesia 1
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sgMLTpsoAI5C21zEGINl-02W79ZeUYfJ3Q&u" group-title="Live Event",beIN Sports Indonesia 3
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="Live Event",SSC 1
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="Live Event",SSC 2
